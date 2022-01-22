@@ -1,0 +1,9 @@
+.main-header {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    height: 60px;
+    background-color: rgb(126, 214, 114);
+    border-bottom: 1px solid rgb(110, 122, 108);
+    color: rgb(255, 255, 255);
+}
