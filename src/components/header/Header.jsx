@@ -1,28 +1,23 @@
 import './Header.css';
 const Header = () => {
-    return ( <
-        >
-        <
-        div className = "main-header" >
-        <
-        div >
-        <
-        h1 > Starter Software Firm < /h1> < /
-        div > <
-        nav >
-        <
-        ul >
-        <
-        li > Home < /li> <
-        li > About < /li> <
-        li > Contact < /li> < /
-        ul >
-
-        <
-        /nav> < /
-        div > <
-        />
-    );
+    return ( 
+    <>
+    <div>
+        <nav id="mainnav">
+            <div class="displaysize">
+            <menu id="menucontainer">
+            <ul id="primarymenu">
+                <li><a href="">HOME</a></li>
+                <li><a href="">SERVICE</a> </li>   
+                <li><a href="">ABOUT</a></li>
+                <li><a href="">PORTFOLIO</a></li>
+                <li><a href="">CONTACT US</a></li>
+            </ul>
+            </menu>
+            </div>
+        </nav>
+    </div>
+    </>);
 }
 
 export default Header;
