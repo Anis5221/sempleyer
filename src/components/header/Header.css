@@ -12,10 +12,8 @@ body{font-family:arial;font-size:15px;line-height:25px;}
 #menucontainer{
     float: right;
     width: 700px}
-img{width:100%;}
-#logodiv{width:200px;float:left;}
-	
-#logodiv{width:130px;float:left;padding:10px 0px;text-align:center;}
+
+
 .displaysize{width:1170px;margin:auto;}
-#logodiv img{margin-bottom:-30px;}
+
 
