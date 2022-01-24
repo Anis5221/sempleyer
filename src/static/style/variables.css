@@ -1,0 +1,28 @@
+/* write some color variables and font size also line hight */
+
+:root {
+    --color-primary: #00374c;
+    --color-secondary: #f1f1f1;
+    --color-tertiary: #00374c;
+    --color-quaternary: #f1f1f1;
+    --color-quinary: #00374c;
+    --white: #fff;
+    --black: #000;
+    --grey: #666;
+    --light-grey: #eee;
+    --dark-grey: #333;
+    --light-blue: #00374c;
+    --dark-blue: #00374c;
+    --light-green: #00374c;
+    /* end of color variables */
+    /* start font variables */
+    --font-size-base: .9rem;
+    --font-size-large: 20px;
+    --font-size-small: 12px;
+    --font-size-xsmall: 10px;
+    --font-size-xxsmall: 8px;
+    --font-family-base: arial;
+    --font-family-heading: arial;
+    /* end of font variables */
+    /*  variables */
+}
